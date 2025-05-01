@@ -1,0 +1,1 @@
+﻿The Main hurdle I faced, besides the sheer amount of information that needed to be written in the code, was that I didn’t know what headers to include. I ended up solving this problem by just including every header I could think of that might be remotely related to something that I might need. Otherwise, I’m done with the project
